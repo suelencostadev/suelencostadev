@@ -1,0 +1,48 @@
+[ < h2  alinhar = " esquerda " > Olá! 👋 Sou desenvolvedora Full Stack com experiência em HTML, CSS, JavaScript e React. Atualmente estou aprendendo Java. Desejo colaborar e aprender com outros desenvolvedores talentosos por aqui!</ h2 >
+< p  alinhar = " esquerda " > </ p >
+
+###
+
+< img  alinhar = " direita " altura = " 150 " src = " https://i.imgflip.com /65efzo.gif "   / >​  
+< h1  alinhar = " esquerda " >Olá! 👋 Sou desenvolvedora Full Stack com experiência em HTML, CSS, JavaScript e React. Atualmente estou aprendendo Java. Desejo colaborar e aprender com outros desenvolvedores talentosos por aqui!</ h1 >
+
+###
+
+< div  alinhar = " esquerda " >
+  < img  src = " https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg "  height = " 30 "  alt = " html5 logo "   />
+  < img  src = " https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg "  height = " 40 "  alt = " logotipo html5 "   />
+  < img  largura = " 12 " />
+  < img  src = " https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg "  height = " 30 "  alt = " css3 logo "   />
+  < img  src = " https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg "  height = " 40 "  alt = " css3 logo "   />
+  < img  largura = " 12 " />
+  < img  src = " https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg "  height = " 30 "  alt = " javascript logo "   />
+  < img  src = " https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg "  height = " 40 "  alt = " javascript logo "   />
+  < img  largura = " 12 " />
+  < img  src = " https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg "  height = " 30 "  alt = " react logo "   />
+  < img  src = " https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg "  height = " 40 "  alt = " react logo "   />
+  < img  largura = " 12 " />
+  < img  src = " https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg "  height = " 30 "  alt = " java logo "   />
+  < img  src = " https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg "  height = " 40 "  alt = " java logo "   />
+  < img  largura = " 12 " />
+  < img  src = " https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg "  height = " 40 "  alt = " logotipo da primavera "   />
+</div>​​
+
+###
+
+< div  alinhar = " esquerda " >
+  < a  href = " www.linkedin.com/in/suelen-costa-dos-anjos-b2884a250 "  target = " _blank " >
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="logotipo do linkedin" />
+  </a>​​
+</div>​​
+] ( http://www.gifsde.com/e/gato-en-codigo-ascii/ )
+< h2  alinhar = " esquerda " </ h2 >
+
+###
+
+< h2  alinhar = " esquerda " </ h2 >
+
+###
+
+< p  alinhar = " esquerda " </ p >
+
+###
